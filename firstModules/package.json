@@ -1,0 +1,16 @@
+{
+  "name": "firstmodules",
+  "version": "1.0.0",
+  "description": "My first module with node.js",
+  "main": "server2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server2.js"
+  },
+  "author": "Banb4n",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "lodash": "^4.17.4"
+  }
+}
